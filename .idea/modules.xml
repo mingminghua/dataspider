@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datasprider.iml" filepath="$PROJECT_DIR$/datasprider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datasprider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/datasprider_main.iml" group="datasprider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datasprider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/datasprider_test.iml" group="datasprider" />
+    </modules>
+  </component>
+</project>
